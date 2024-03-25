@@ -1,6 +1,3 @@
-97% of storage used … 
-If you run out, you can't create, edit and upload files. Get 100 GB of storage for MAD 19.00 MAD 0 for 1 month.
-
 #include <stdio.h>
 #include "lists.h"
 
